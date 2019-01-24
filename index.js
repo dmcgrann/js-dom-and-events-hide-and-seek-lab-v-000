@@ -1,3 +1,3 @@
 function(selector) {
- let selector = document.getFirstSelector(selector);
- 
+ document.getFirstSelector(selector);
+}
