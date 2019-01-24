@@ -12,3 +12,4 @@ function increaseRankBy(n) {
     rank[i].innerHTML = (i + n).toString();
   }
 }
+
